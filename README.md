@@ -1,5 +1,7 @@
 # From-strategy-to-issues
 
+[Development strategy](development-strategy.md)
+
 from [HYF](https://github.com/HackYourFutureBelgium/incremental-development#week-2)   
 
 Learn to organize your progress with issues and a project board:

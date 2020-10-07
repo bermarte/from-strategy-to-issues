@@ -10,7 +10,7 @@ write a short description of your web page:
 
 
 An exercise we did at HYF to understand how to work with GitHubs's Project-Boards and branches. To write this Development Strategy we used the [team-branchies](https://github.com/HackYourFutureBelgium/team-branchies/blob/master/development-strategy.md) template provided by HYF. Students can study it and learn how to use it
-  
+
 [video part 1](https://vimeo.com/465288009)    
 [video part 2](url)    
 
@@ -72,4 +72,4 @@ Write a markdown bio page for this team member
 Change this team member's name on the list into a link to their new profile page
 
 ---
-
+[READ ME](README.md)
