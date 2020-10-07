@@ -4,7 +4,7 @@
 
 ## group 4 is:
 [Tiago](tiago.md)
-Patrick  
+[Patrick](patrick.md)    
 Kemi    
 Burak    
 Divya    
