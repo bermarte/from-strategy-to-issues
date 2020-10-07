@@ -8,7 +8,7 @@ write a short description of your web page:
 - who would want to read it?
 - why would they want to read it?
 
-A project we did to understand how to work with GitHubs's Projects. To write this Development Strategy we used the [team-branchies](https://github.com/HackYourFutureBelgium/team-branchies/blob/master/development-strategy.md) template provided by HYF
+A project we did to understand how to work with GitHubs's Project-Boards. To write this Development Strategy we used the [team-branchies](https://github.com/HackYourFutureBelgium/team-branchies/blob/master/development-strategy.md) template provided by HYF
 
 ## 0. Set-Up
 
