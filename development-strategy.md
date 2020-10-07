@@ -18,7 +18,8 @@ An exercise we did at HYF to understand how to work with GitHubs's Project-Board
 
 __A User can see my initial repository and live demo__
 
-[from strategy to issues](https://bermarte.github.io/from-strategy-to-issues/)
+[repo - from strategy to issues](https://bermarte.github.io/from-strategy-to-issues/)
+[live demo](https://bermarte.github.io/from-strategy-to-issues/)
 
 ### Repo
 
