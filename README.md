@@ -2,6 +2,14 @@
 
 [Development strategy](development-strategy.md)
 
+## group 4 is:
+[Tiago](tiago.md)
+Patrick  
+Kemi    
+Burak    
+Divya    
+Bermarte    
+
 from [HYF](https://github.com/HackYourFutureBelgium/incremental-development#week-2)   
 
 Learn to organize your progress with issues and a project board:
