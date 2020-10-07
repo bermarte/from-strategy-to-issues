@@ -9,7 +9,7 @@ write a short description of your web page:
 - why would they want to read it?
 
 
-An exercise we did at HYF to understand how to work with GitHubs's Project-Boards and branches. To write this Development Strategy we used the [team-branchies](https://github.com/HackYourFutureBelgium/team-branchies/blob/master/development-strategy.md) template provided by HYF. Students can study it and learn how to use it
+An exercise we did at HYF to understand how to work with GitHubs's Project-Boards, issues and branches and pull requests together systematically. To write this Development Strategy we used the [team-branchies](https://github.com/HackYourFutureBelgium/team-branchies/blob/master/development-strategy.md) template provided by HYF. Students can study it and learn how to use it
 
 [video part 1](https://vimeo.com/465288009)    
 [video part 2](https://vimeo.com/465288632)    
