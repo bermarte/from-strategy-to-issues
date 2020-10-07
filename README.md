@@ -23,7 +23,8 @@ Learn to organize your progress with issues and a project board:
 ---
 
 
-**First part**
+**First part**    
+
 This week you will build _another_ group repository, this time learning how to use issues, labels and project boards to track your progress like in the [from-strategy-to-issues](https://github.com/hackyourfuturebelgium/from-strategy-to-issues) repository (with all steps assigned to yourself).
 
 By break time you should each have finished to step 4.4 in the week description, you should have:
