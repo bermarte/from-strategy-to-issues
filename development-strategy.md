@@ -31,6 +31,8 @@ __A User can see my initial repository and live demo__
 1. Fill out the rest of this file with your team's names
 1. Push the changes
 1. turn on GitHub Pages
+1. In Github create a project board
+1. Inside the board create 3 sub-boards: 'to do', 'in progress' and 'done'
 
 ---
 
@@ -47,24 +49,23 @@ Team 4 is made by
 
 ### Repo
 
-* Create a project board
-This user story was developed on a brach called `about-team`
+This user story was developed on the master branch
 
 ### README.md
 
-Wrote an introduction to the team and added a list with all of our names.
+Write an introduction to the team and added a list with all of our names.
 
 ---
 
-## 2. introducing _name_
+## 2. introducing Tiago
 
-__As a site visitor, I want to learn more about *name*__
+__As a site visitor, I want to learn more about *Tiago*__
 
 ### Repo
 
-This user story was developed on a brach called `name`
+This user story was developed on a brach called `tiago`
 
-### name.md
+### tiago.md
 
 Write a markdown bio page for this team member
 
