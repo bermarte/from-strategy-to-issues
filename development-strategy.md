@@ -8,7 +8,11 @@ write a short description of your web page:
 - who would want to read it?
 - why would they want to read it?
 
-A project we did to understand how to work with GitHubs's Project-Boards. To write this Development Strategy we used the [team-branchies](https://github.com/HackYourFutureBelgium/team-branchies/blob/master/development-strategy.md) template provided by HYF
+
+An exercise we did at HYF to understand how to work with GitHubs's Project-Boards and branches. To write this Development Strategy we used the [team-branchies](https://github.com/HackYourFutureBelgium/team-branchies/blob/master/development-strategy.md) template provided by HYF. Students can study it and learn how to use it
+  
+[video part 1](https://vimeo.com/465288009)    
+[video part 2](url)    
 
 ## 0. Set-Up
 
@@ -19,10 +23,10 @@ __A User can see my initial repository and live demo__
 ### Repo
 
 1. Created a new repository
-1. Clone the repository
-1. Copy-paste this development strategy file into a file called `development-strategy.md`
+1. Clone the repository locally
+1. Create development strategy file into a file called `development-strategy.md`
 1. Add a license
-1. Give a title to your README
+1. Create a README.md file
 1. Fill out the rest of this file with your team's names
 1. Push the changes
 1. turn on GitHub Pages
@@ -31,10 +35,18 @@ __A User can see my initial repository and live demo__
 
 ## 1. about your team
 
-__As a site visitor, I want to know about your team and who is in it__
+Team 4 is made by
+
+* Tiago
+* Patrick
+* Kemi
+* Divya
+* Burak
+* Bermarte
 
 ### Repo
 
+* Create a project board
 This user story was developed on a brach called `about-team`
 
 ### README.md
