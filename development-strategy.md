@@ -14,7 +14,7 @@ A project we did to understand how to work with GitHubs's Projects. To write thi
 
 __A User can see my initial repository and live demo__
 
-[link](url)
+[from strategy to issues](https://bermarte.github.io/from-strategy-to-issues/)
 
 ### Repo
 
