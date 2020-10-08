@@ -74,7 +74,7 @@ Write a markdown bio page for this team member
 Change this team member's name on the list into a link to their new profile page
 
 --
-## 2. introducing Patrick
+## 3. introducing Patrick
 
 __As a site visitor, I want to learn more about *Patrick*__
 
@@ -91,7 +91,7 @@ Write a markdown bio page for this team member
 Change this team member's name on the list into a link to their new profile page
 
 --
-## 3. introducing Kemi
+## 4. introducing Kemi
 
 __As a site visitor, I want to learn more about *Kemi*__
 
@@ -100,6 +100,23 @@ __As a site visitor, I want to learn more about *Kemi*__
 This user story was developed on a brach called `kemi`
 
 ### kemi.md
+
+Write a markdown bio page for this team member
+
+### README.md
+
+Change this team member's name on the list into a link to their new profile page
+
+--
+## 5. introducing Burak
+
+__As a site visitor, I want to learn more about *Burak*__
+
+### Repo
+
+This user story was developed on a brach called `burak`
+
+### burak.md
 
 Write a markdown bio page for this team member
 
