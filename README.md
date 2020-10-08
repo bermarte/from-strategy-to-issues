@@ -7,7 +7,7 @@
 [Patrick](patrick.md)    
 [Kemi](kemi.md)   
 [Burak](burak.md)    
-[Divya](divya.md)       
+[Divya](divya.md)    
 Bermarte    
 
 from [HYF](https://github.com/HackYourFutureBelgium/incremental-development#week-2)   

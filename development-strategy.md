@@ -123,5 +123,22 @@ Write a markdown bio page for this team member
 ### README.md
 
 Change this team member's name on the list into a link to their new profile page
+
+--
+## 6. introducing Divya
+
+__As a site visitor, I want to learn more about *Divya*__
+
+### Repo
+
+This user story was developed on a brach called `divya`
+
+### divya.md
+
+Write a markdown bio page for this team member
+
+### README.md
+
+Change this team member's name on the list into a link to their new profile page
 ---
 [READ ME](README.md)
