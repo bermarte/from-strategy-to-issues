@@ -8,7 +8,7 @@
 [Kemi](kemi.md)   
 [Burak](burak.md)    
 [Divya](divya.md)    
-Bermarte    
+[Bermarte](bermarte.md)    
 
 from [HYF](https://github.com/HackYourFutureBelgium/incremental-development#week-2)   
 
