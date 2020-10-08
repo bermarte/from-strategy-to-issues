@@ -3,7 +3,7 @@
 [Development strategy](development-strategy.md)
 
 ## group 4 is:
-[Tiago](tiago.md)
+[Tiago](tiago.md)   
 [Patrick](patrick.md)    
 Kemi    
 Burak    
