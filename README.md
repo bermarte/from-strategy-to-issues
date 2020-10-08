@@ -5,7 +5,7 @@
 ## group 4 is:
 [Tiago](tiago.md)   
 [Patrick](patrick.md)    
-Kemi    
+[Kemi](kemi.md)   
 Burak    
 Divya    
 Bermarte    
