@@ -60,3 +60,13 @@ For each branch on GitHub you will:
 4. Move the closed issue to _done_ in your project board
 
 By the end of class you should have a repository that resembles the [from-strategy-to-issues](https://github.com/hackyourfuturebelgium/from-strategy-to-issues) example (with all steps assigned to yourself).
+
+---
+## Issue Checklist
+4/10/2020
+- [x] [repo](https://github.com/bermarte/from-strategy-to-issues) (with a complete README)
+- [x] [live demo](https://bermarte.github.io/from-strategy-to-issues)
+- [x] [development strategy](https://github.com/bermarte/from-strategy-to-issues/blob/master/development-strategy.md)
+- [x] [one branch per step](https://github.com/bermarte/from-strategy-to-issues/branches/yours)
+- [x] [one closed PR per step](https://github.com/bermarte/from-strategy-to-issues/pulls?q=is%3Apr+is%3Aclosed) 
+
