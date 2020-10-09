@@ -154,8 +154,10 @@ This user story was developed on a brach called `bermarte`
 
 Write a markdown bio page for this team member
 
-### README.md
+### README.md    
+
 
 Change this team member's name on the list into a link to their new profile page
+
 ---
 [READ ME](README.md)
